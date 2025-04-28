@@ -1,0 +1,66 @@
+[ 
+{
+    "varenamn" : "Trines tråsykkel", 
+    "kategori": "sykkel", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Thomas' sykkel", 
+    "kategori": "sykkel", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Trines telt", 
+    "kategori": "telt", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Thomas' turtelt", 
+   "kategori": "telt", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Trines sovepose", 
+    "kategori": "sovepose", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Thomas' sovepose", 
+    "kategori": "sovepose", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+},
+
+{
+    "varenamn" : "Trines skjo", 
+    "kategori": "sko", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6 
+},
+
+{
+    "varenamn" : "Thomas' skoerk", 
+    "kategori": "sko", 
+    "pris" : 300, 
+    "lagerantall": 1, 
+    "stjerneomtale": 6
+}
+  ]
+  

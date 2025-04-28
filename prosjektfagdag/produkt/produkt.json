@@ -1,0 +1,69 @@
+[
+    {
+        "varenamn" : "Terreng sykkel",
+        "kategori": "sykkel",
+        "pris" : 6999,
+        "lagerantall": 2,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/sykkel2.png"
+    },
+    {
+        "varenamn" : "Sko",
+        "kategori": "sko",
+        "pris" : 2199,
+        "lagerantall": 2,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/skoo.jpg"
+    },
+    {
+        "varenamn" : "sovepose",
+        "kategori": "sovepose",
+        "pris" : 2099,
+        "lagerantall": 50,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/sovepose2.png"
+    },
+ 
+    {
+        "varenamn" : "Tremanns telt",
+        "kategori": "telt",
+        "pris" : 9000,
+        "lagerantall": 36,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/telt1.png"
+    },
+    {
+        "varenamn" : "Friluftstelt",
+        "kategori": "telt",
+        "pris" : 2999,
+        "lagerantall": 200,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/telt2.png"
+    },
+    {
+        "varenamn" : "Sportssykkel",
+        "kategori": "sykkel",
+        "pris" : 5999,
+        "lagerantall": 4,
+        "stjerneomtale": 6,
+        "bilde": "/bilderprosjekt/sykkel1.png"
+    },
+    {
+        "varenamn" : "Sovepose",
+        "kategori": "sovepose",
+        "pris" : 1999,
+        "lagerantall": 150,
+        "stjerneomtale": 5,
+        "bilde": "/bilderprosjekt/sovepose1.png"
+    },
+   
+    {
+        "varenamn" : "Sko",
+        "kategori": "sko",
+        "pris" : 1999,
+        "lagerantall": 80,
+        "stjerneomtale": 4,
+        "bilde": "/bilderprosjekt/sko2.png"
+    }
+]
+ 
